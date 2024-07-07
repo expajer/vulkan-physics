@@ -1,3 +1,5 @@
+All credits to https://github.com/geefr who made that.
+
 # Vulkan Physics
 A basic example of using vulkan to run physics calculations on a GPU.
 
